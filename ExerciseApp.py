@@ -16,7 +16,3 @@ elif Day_of_the_week == "Saturday":
     print("Rest_Day")
 
 # Exellent. Review the user imput Line 3 in case you have to code for a users input. Good Work. 30/06/2021
-
-#def Monday():
-   # print("Bench")
-#Monday()
